@@ -47,9 +47,9 @@
 </p>
 -->
 
-# 💫 About Me:
-I am currently a pre-final Computer Enginneering student.
-
+# Hey there! 👋 Blending tech, creativity, and a dash of curiosity! 🎨💻
+A pre-final year Computer Engineering student, an Android developer by day, and a cybersecurity enthusiast by night!
+ Fun fact: I turn coffee ☕ into code and love exploring ethical hacking and learning new things when I’m not building cool apps! 🌟"
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aeri_168) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshita-shreya-168m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyaharshita2693@gmail.com) 
