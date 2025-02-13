@@ -48,9 +48,13 @@
 -->
 
 # Hey there! 👋 Blending tech, creativity, and a dash of curiosity! 🎨💻
-<h3 A pre-final year Computer Engineering student, an Android developer by day, and a cybersecurity enthusiast by night! /h3>
-<h3 Fun fact: I turn coffee ☕ into code and love exploring ethical hacking and learning new things when I’m not building cool apps! 🌟
-/h3>
+🎓 **Pre-final year Computer Engineering student**  
+📱 **Android developer by day**, 🛡️ **cybersecurity enthusiast by night**  
+☕ **Fun fact:** I turn coffee into code!  
+🔍 Love exploring **ethical hacking** and learning **new technologies**  
+🚀 Passionate about building **cool apps** 🌟  
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aeri_168) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshita-shreya-168m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyaharshita2693@gmail.com) 
 
